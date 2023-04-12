@@ -2,6 +2,8 @@
 
 # usage
 
+默认每次请求都生成不同的userAgent.
+
 ```shell
 ./basher --help
 Usage:
@@ -23,8 +25,11 @@ Usage:
 一些测试下载地址:
 
 `https://proof.ovh.net/files/1Mb.dat`
+
 `https://proof.ovh.net/files/10Mb.dat`
+
 `https://proof.ovh.net/files/1Gb.dat`
+
 
 
 
